@@ -1,16 +1,4 @@
-VirsAI Core staging tree 18.0
-===========================
 
-|CI|master|develop|
-|-|-|-|
-|Gitlab|[![Build Status](https://gitlab.com/virsaipay/virsai/badges/master/pipeline.svg)](https://gitlab.com/virsaipay/virsai/-/tree/master)|[![Build Status](https://gitlab.com/virsaipay/virsai/badges/develop/pipeline.svg)](https://gitlab.com/virsaipay/virsai/-/tree/develop)|
-
-https://www.virsai.org
-
-For an immediately usable, binary version of the VirsAI Core software, see
-https://www.virsai.org/downloads/.
-
-Further information about VirsAI Core is available in the [doc folder](/doc).
 
 What is VirsAI?
 -------------
