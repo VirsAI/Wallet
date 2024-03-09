@@ -1,4 +1,20 @@
+INFO
 
+Algorithm -> X11 Proof of Work
+Coin Name -> VirsAI
+Tickner -> VIRS
+RPC Port -> 16541
+P2P Port -> 16542
+Block Reward -> 50
+Superblock Reward -> 10 %
+Masternode Reward -> 50 %
+Masternode Collaratal -> 10.000 VIRS
+Block Halving -> 210000 blocks
+Coin supply -> 22000000 coins
+Website URL -> https://virsai.online/
+Explorer -> http://explorervirsai.online/
+Github URL -> https://github.com/VirsAI
+Discord Link -> https://discord.gg/HNXvcv5Z
 
 What is VirsAI?
 -------------
