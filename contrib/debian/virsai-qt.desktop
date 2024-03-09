@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=VirsAI Core
+Comment=VirsAI P2P Cryptocurrency
+Comment[de]=Verbinde mit dem VirsAI peer-to-peer Netzwerk
+Comment[fr]=VirsAI, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=VirsAI, eşten eşe kriptografik sanal para birimi
+Exec=virsai-qt %u
+Terminal=false
+Type=Application
+Icon=virsai128
+MimeType=x-scheme-handler/virsai;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=VirsAI-qt

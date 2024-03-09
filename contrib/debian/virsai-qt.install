@@ -1,0 +1,6 @@
+usr/local/bin/virsai-qt usr/bin
+share/pixmaps/virsai32.xpm usr/share/pixmaps
+share/pixmaps/virsai16.xpm usr/share/pixmaps
+share/pixmaps/virsai128.png usr/share/pixmaps
+debian/virsai-qt.desktop usr/share/applications
+debian/virsai-qt.protocol usr/share/kde4/services/

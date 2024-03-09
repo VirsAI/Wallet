@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[virsai.virsai_ents]
+file_filter = src/qt/locale/virsai_<lang>.ts
+source_file = src/qt/locale/virsai_en.xlf
+source_lang = en

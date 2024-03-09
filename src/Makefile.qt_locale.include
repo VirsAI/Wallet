@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/virsai_ar.ts \
+  qt/locale/virsai_bg.ts \
+  qt/locale/virsai_de.ts \
+  qt/locale/virsai_en.ts \
+  qt/locale/virsai_es.ts \
+  qt/locale/virsai_fi.ts \
+  qt/locale/virsai_fr.ts \
+  qt/locale/virsai_it.ts \
+  qt/locale/virsai_ja.ts \
+  qt/locale/virsai_ko.ts \
+  qt/locale/virsai_nl.ts \
+  qt/locale/virsai_pl.ts \
+  qt/locale/virsai_pt.ts \
+  qt/locale/virsai_ro.ts \
+  qt/locale/virsai_ru.ts \
+  qt/locale/virsai_sk.ts \
+  qt/locale/virsai_th.ts \
+  qt/locale/virsai_tr.ts \
+  qt/locale/virsai_vi.ts \
+  qt/locale/virsai_zh_CN.ts \
+  qt/locale/virsai_zh_TW.ts
