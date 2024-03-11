@@ -12,7 +12,7 @@ Masternode Collaratal -> 10.000 VIRS<br>
 Block Halving -> 210000 blocks<br>
 Coin supply -> 22000000 coins<br>
 Website URL -> https://virsai.online/<br>
-Explorer -> http://explorervirsai.online/<br>
+Explorer -> https://explorervirsai.online/<br>
 Github URL -> https://github.com/VirsAI<br>
 Discord Link -> https://discord.gg/HNXvcv5Z<br>
 
